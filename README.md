@@ -1,16 +1,22 @@
-## Hi there 👋
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=enaosuke&style=flat" alt="Profile Views">
+</p>
 
-<!--
-**enaosuke/enaosuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./stats/github-stats.svg" alt="GitHub Stats">
+  <img src="./stats/top-langs.svg" alt="Top Languages">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🛠 My Skills
+
+## Frontend
+[![My Skills](https://skillicons.dev/icons?theme=light&i=html,css,js,pug,sass,ts,jquery,react,nextjs,vue,nuxtjs,threejs,tailwind,vite,webpack,gulp)](https://skillicons.dev)
+
+## Backend
+[![My Skills](https://skillicons.dev/icons?theme=light&i=nodejs,php)](https://skillicons.dev)
+
+## Tools
+[![My Skills](https://skillicons.dev/icons?theme=light&i=vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?theme=light&i=xd,photoshop,illustrator,figma)](https://skillicons.dev)
